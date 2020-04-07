@@ -1,0 +1,35 @@
+body {
+    box-sizing : border-box;
+    background-position : static;
+    background-image : url(journey.jpg);
+    background-size : 100%;
+}
+
+
+#title {
+    box-sizing : border-box;
+    position : relative;
+    color : white;
+    top : 250px;
+    left : 50px;
+    margin-bottom : 0px;
+    border-bottom : 0px;
+}
+
+#intro {
+    box-sizing : border-box;
+    position : relative;
+    color : white;
+    top : 260px;
+    left : 50px;
+}
+
+#list {
+    box-sizing : border-box;
+    position : relative;
+    color : white;
+    font-size : 25px;
+    top : 280px;
+    left : 50px;
+    list-style : square;
+}
